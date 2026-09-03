@@ -1,0 +1,13 @@
+{
+  "blocked_keywords": [
+    "password",
+    "private key",
+    "token",
+    "bypass mfa"
+  ],
+  "allowed_actions": [
+    "create_ticket",
+    "get_ticket_status",
+    "lookup_user"
+  ]
+}

@@ -1,0 +1,14 @@
+[
+  {
+    "employee_id": "E1001",
+    "name": "Ava Reed",
+    "department": "Finance",
+    "manager": "M3001"
+  },
+  {
+    "employee_id": "E1002",
+    "name": "Liam Chen",
+    "department": "Engineering",
+    "manager": "M3002"
+  }
+]

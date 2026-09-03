@@ -1,0 +1,6 @@
+{
+  "application": "Order API",
+  "environment": "production",
+  "DB_HOST": "mysql-prod",
+  "DB_PORT": 3306
+}

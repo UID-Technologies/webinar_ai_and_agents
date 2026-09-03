@@ -1,0 +1,4 @@
+INFO Starting Order API
+INFO Connecting to database mysql-prod:3306
+ERROR Unable to connect to database mysql-prod:3306
+ERROR Connection refused
